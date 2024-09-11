@@ -1,0 +1,1 @@
+curl --request PATCH --url 'https://192.168.178.113/redfish/v1/Chassis/1/Thermal/' --user 'USERNAME:PASSWORD' --header 'content-type: application/json' --insecure --data '{"Oem": {"Hpe": {"FanPercentAdjust": 0}}}'
