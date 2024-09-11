@@ -1,4 +1,4 @@
-#ILO 5 SHUTUP!
+# ILO 5 SHUTUP!
 
 A simple script to silence generation 10 HP Enterprise servers for your home lab.
 
